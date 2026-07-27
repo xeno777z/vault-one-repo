@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "vaultId": "085aefb8-3c0d-4307-8deb-fa310050c4eb",
-=======
-  "vaultId": "2c5d3f6f-aea5-497a-9f87-3d1466a0e4f6",
->>>>>>> branch 'main' of https://github.com/xeno777z/vault-one-repo.git
+  "vaultId": "69c92112-dc46-44dc-a43e-eedf4d4e6b2b",
   "enableSync": true,
   "debugMode": false
 }
